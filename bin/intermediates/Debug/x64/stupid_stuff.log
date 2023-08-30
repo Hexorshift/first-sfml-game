@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\CPP Projects\stupid_stuff\src\main.cpp(71,64): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
-D:\CPP Projects\stupid_stuff\src\main.cpp(71,61): warning C4309: 'argument': truncation of constant value
-  stupid_stuff.vcxproj -> D:\CPP Projects\stupid_stuff\bin\Debug\x64\stupid_stuff.exe

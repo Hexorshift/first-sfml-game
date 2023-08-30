@@ -1,8 +1,0 @@
-﻿  main.cpp
-D:\CPP Projects\stupid_stuff\src\main.cpp(67,64): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
-D:\CPP Projects\stupid_stuff\src\main.cpp(67,61): warning C4309: 'argument': truncation of constant value
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 438 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  stupid_stuff.vcxproj -> D:\CPP Projects\stupid_stuff\bin\Release\x64\stupid_stuff.exe
